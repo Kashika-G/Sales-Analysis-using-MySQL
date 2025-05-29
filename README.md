@@ -7,7 +7,7 @@ To perform sales data analysis using SQL queries and extract valuable business i
 2.  ### **Tools Used**
 Database: MySQL
 Language: SQL
-Platform: Localhost / MySQL Workbench / Any SQL IDE
+Platform: MySQL Workbench / Any SQL IDE
 
 3.  ### **Steps Included**
 * Created COMPANY database and used SALES table.
